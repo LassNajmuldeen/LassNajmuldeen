@@ -14,9 +14,9 @@ I thrive on tackling complex problems and continuously learning. This passion dr
 
 My mission is to be at the forefront of cutting-edge AI applications, contributing to impactful, real-world solutions in areas like:
 
-Quantitative Finance: Using AI to optimize trading strategies and predictive models.
-Industrial Applications: Innovating within autonomous systems and intelligent automation.
-Sustainability: Exploring AI’s role in addressing environmental challenges.
+Quantitative Finance by using AI to optimize trading strategies and predictive models.
+Industrial Applications by innovating within autonomous systems and intelligent automation.
+Sustainability by exploring AI’s role in addressing environmental challenges.
 
 I believe in harnessing the power of AI not only for technological advancements but also for creating a more sustainable and equitable future.
 
