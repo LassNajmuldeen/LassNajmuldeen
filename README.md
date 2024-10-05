@@ -6,9 +6,7 @@
 
 Hi! I’m Lass, an ambitious student currently pursuing a Bachelor’s in Applied Artificial Intelligence at MDU Eskilstuna. I am passionate about leveraging AI and machine learning to solve global challenges and drive innovation in quantitative finance, industry, and sustainability.
 
-Though my GitHub is still a work in progress, expect future projects on AI-driven solutions, spanning across multiple domains such as algorithmic trading, AI for environmental sustainability, and smart industrial systems.
-
-I thrive on tackling complex problems and continuously learning. This passion drives me to take on new challenges—whether through personal projects, hackathons, or collaborative research.
+Though my GitHub is still a work in progress, expect future projects on AI-driven solutions, spanning across multiple domains such as algorithmic trading, AI for environmental sustainability, and smart industrial systems. I thrive on tackling complex problems and continuously learning. This passion drives me to take on new challenges—whether through personal projects, hackathons, or collaborative research.
 
 **🌍 My Vision**
 
