@@ -12,7 +12,7 @@ Hi, I’m Lass! I’m pursuing a Bachelor’s in computer science specializing i
 
 Languages: Python, Java, RPGILE, JavaScript, HTML, CSS, SQL
 
-Software: TensorFlow, PyTorch, Scikit-learn, Pandas, Numpy, Jupyter, Git, AWS, Azure
+Software: TensorFlow, PyTorch, Pandas, Numpy, Scikit-learn, Jupyter, Git, AWS
 
 Focus Areas: Reinforcement Learning, Neural Networks, Algorithmic Trading
 
@@ -24,4 +24,4 @@ I’m open to collaborations, internships, and discussions on AI and its transfo
 
 **LinkedIn:** www.linkedin.com/in/lassnajmuldeen
 
-Thanks for visiting! Let’s innovate together.
+Thanks for visiting!
