@@ -10,11 +10,11 @@ Hi, I’m Lass! I’m pursuing a Bachelor’s in computer science specializing i
 
 **Technical Skills**
 
-Languages: Python, Java, RPGILE, JavaScript, HTML, CSS, SQL
+Languages: Python, JavaScript/Typescript, C++ (currently learning), HTML, CSS
 
-Software: TensorFlow, PyTorch, Pandas, Numpy, Scikit-learn, Jupyter, Git, AWS
+Software: TensorFlow, Keras, Pytorch, Pandas, React, Scikit-learn, Jupyter, Git, AWS
 
-Focus Areas: Reinforcement Learning, Neural Networks, Algorithmic Trading
+Focus Areas: Reinforcement Learning, Neural Networks, LLMs
 
 
 **Let’s Connect**
