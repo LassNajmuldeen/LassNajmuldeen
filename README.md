@@ -1,6 +1,6 @@
 # Welcome to My GitHub
 
-Studying AI at MDU | SWE Resident at Headstarter
+Studying AI at MDU | ML Research Intern at MDU
 
 
 **About Me**
