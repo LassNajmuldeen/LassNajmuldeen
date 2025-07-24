@@ -1,6 +1,6 @@
 # Welcome to My GitHub
 
-Studying CS and AI at MDU | ML Research Intern at MDU
+ ML Research Intern at MDU | Studying CS and AI at MDU 
 
 
 **About Me**
