@@ -1,25 +1,25 @@
 # Welcome to My GitHub
 
-Studying AI at MDU | ML Research Intern at MDU
+Studying CS and AI at MDU | ML Research Intern at MDU
 
 
 **About Me**
 
-Hi, I’m Lass! I’m pursuing a Bachelor’s in computer science specializing in applied AI at Mälardalen University, driven by a passion for solving real-world challenges using AI. My focus spans quantitative finance, industrial applications, and sustainability. This GitHub showcases my journey as I build projects in areas like algorithmic trading, AI-driven sustainability, and smart industrial systems. I’m committed to tackling complex problems, constantly learning, and contributing to impactful innovations.
+Hi, I’m Lass! I’m pursuing a Bachelor’s in computer science specializing in applied AI and a minor in mathematics at Mälardalen University. My biggest passion is for reinforcement learning, and I hope to do a PhD and research in that in the future, but I love all things ML and SWE. I made this GitHub to showcase some of the projects I build and what I am working and what I contribute to.
 
 
 **Technical Skills**
 
 Languages: Python, JavaScript/Typescript, C++ (currently learning), HTML, CSS
 
-Software: TensorFlow, Keras, Pytorch, Pandas, React, Scikit-learn, Jupyter, Git, AWS
+Software: Pytorch, TensorFlow, Keras, Pandas, React, Scikit-learn, Jupyter, Git, AWS
 
-Focus Areas: Reinforcement Learning, Neural Networks, LLMs
+Focus Areas: Reinforcement Learning, Neural Networks, LLMs, Deep Learning
 
 
 **Let’s Connect**
 
-I’m open to collaborations, internships, and discussions on AI and its transformative potential.
+I’m open to collaborations on projects, competitions and hackathons, research projects, and internships, but feel free to connect with me for a conversation about this wonderful field!
 
 
 **LinkedIn:** www.linkedin.com/in/lassnajmuldeen
