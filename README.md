@@ -5,7 +5,7 @@
 
 **About Me**
 
-Hi, I’m Lass! I’m pursuing a Bachelor’s in computer science specializing in applied AI and a minor in mathematics at Mälardalen University. My biggest passion is for reinforcement learning, and I hope to do a PhD and research in that in the future, but I love all things ML and SWE. I made this GitHub to showcase some of the projects I build and what I am working and what I contribute to.
+Hi, I’m Lass! I’m pursuing a Bachelor’s in computer science specializing in applied AI and a minor in mathematics at Mälardalen University. My biggest passion is for geometric deep learning and reinforcement learning, and I hope to do a PhD and research in that in the future, but I love all things ML and SWE. I made this GitHub to showcase some of the projects I build and what I am working and what I contribute to.
 
 
 **Technical Skills**
@@ -14,7 +14,7 @@ Languages: Python, JavaScript/Typescript, C++ (currently learning), HTML, CSS
 
 Software: Pytorch, TensorFlow, Keras, Pandas, React, Scikit-learn, Jupyter, Git, AWS
 
-Focus Areas: Reinforcement Learning, Neural Networks, LLMs, Deep Learning
+Focus Areas: Reinforcement Learning, Geometry, Neural Networks, LLMs, Deep Learning
 
 
 **Let’s Connect**
