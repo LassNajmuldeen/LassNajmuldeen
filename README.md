@@ -14,7 +14,7 @@ Languages: Python, JavaScript/Typescript, C++ (currently learning), HTML, CSS
 
 Software: Pytorch, TensorFlow, Keras, Pandas, React, Scikit-learn, Jupyter, Git, AWS
 
-Focus Areas: Reinforcement Learning, Geometry, Neural Networks, LLMs, Deep Learning
+Focus Areas: Reinforcement Learning, Neural Networks, LLMs, Deep Learning
 
 
 **Let’s Connect**
