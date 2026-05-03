@@ -5,7 +5,7 @@
 
 **About Me**
 
-Hi, I’m Lass! I’m pursuing a Bachelor’s in computer science specializing in applied AI and a minor in mathematics at Mälardalen University. My biggest passion is in reinforcement learning, and I hope to do research and a PhD in that in the future, but I love all things ML and SWE. I made this GitHub to showcase some of the projects I build and what I am working and what I contribute to.
+Hi, I’m Lass! I’m pursuing a Bachelor’s in computer science specializing in applied AI and a minor in mathematics at Mälardalen University. My biggest passion is in reinforcement learning, which I hope to do further research and a PhD in, but I love all things ML and SWE. I made this GitHub to showcase some of the projects I build and what I am working and what I contribute to.
 
 
 **Technical Skills**
