@@ -17,11 +17,11 @@ Software: Pytorch, TensorFlow, Keras, Pandas, React, Scikit-learn, Jupyter, Git,
 Focus Areas: Reinforcement Learning, Neural Networks, LLMs, Deep Learning, Operations Research, Optimization Theory
 
 
-**Let’s Connect**
+**Connect with Me**
 
-I’m open to collaborations on projects, competitions and hackathons, research projects, and internships, but feel free to connect with me for a conversation about this wonderful field!
+I’m open to collaborations on projects, competitions and hackathons, research projects, and internships, but feel free to connect with me for a conversation about this really wonderful field
 
 
-**LinkedIn:** www.linkedin.com/in/lassnajmuldeen
+*LinkedIn:* www.linkedin.com/in/lassnajmuldeen
 
-Thanks for visiting!
+
