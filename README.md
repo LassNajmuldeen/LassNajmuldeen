@@ -4,13 +4,13 @@ Engineering Mathematics @ KTH
 
 **About Me**
 
-I love all things ML and software, but have a specifically big interest in mech interp and optimization + ML topics recently. Though my work is as a Founding MLE @ Ossus (YC W26) is mainly in vision and LLMs. In the past I have done mainly other internships in ML, but done some full stack work as well. 
+I love all things ML and software, but have a specifically big interest in mech interp and RL topics.
 
 **Technical Skills**
 
 Languages: Python, JavaScript/Typescript, C++ (currently learning), HTML, CSS
 
-Software: JAX, Pytorch, TensorFlow, Keras, Pandas, Scikit-learn, Jupyter, Git
+Software: JAX, Pytorch, Keras, Pandas, Scikit-learn, Jupyter, Git
 
 
 **Connect with Me**
