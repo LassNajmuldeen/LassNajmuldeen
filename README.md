@@ -9,8 +9,8 @@ Right now I'm learning Rust for the performance heavy parts of RL systems, and T
 
 **Languages:** Python, Rust (learning), TypeScript/JavaScript
 
-**ML training:** PyTorch, TransformerLens, FSDP
+**ML & training:** PyTorch, TransformerLens, Hugging Face Transformers & Datasets, FSDP2
 
-**RL & inference:** SGLang, vLLM, verl, slime
+**RL & inference:** SGLang, vLLM, verl
 
 I'm always up for collaborating on research, side projects, competitions, or hackathons. And if you just want to talk RL or interp, reach out anyway, I'm happy to.
