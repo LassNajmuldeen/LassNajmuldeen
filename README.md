@@ -1,4 +1,4 @@
-Research Engineer Intern @ Stealth | Engineering Mathematics student @ KTH
+Research Engineer Intern @ Stealth | Mathematics @ KTH
 
 
 Most of my time goes into reinforcement learning for LLMs post-training, multi-agent RL, and the surrounding infrastructure. I'm also really interested in mechanistic interpretability, especially when applied to RL.
