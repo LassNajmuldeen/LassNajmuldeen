@@ -7,16 +7,16 @@
 <text x="24" y="58" fill="#8b949e" font-size="12">Personal + organization repositories · including private repos</text>
 <defs><clipPath id="bar"><rect x="24" y="77" width="552" height="12" rx="6"/></clipPath></defs>
 <g clip-path="url(#bar)">
-<rect x="24.0000" y="77" width="366.0096" height="12" fill="#3572a5"/>
-<rect x="390.0096" y="77" width="48.9104" height="12" fill="#dea584"/>
-<rect x="438.9200" y="77" width="47.6332" height="12" fill="#3178c6"/>
-<rect x="486.5533" y="77" width="36.5072" height="12" fill="#e34c26"/>
-<rect x="523.0605" y="77" width="18.0657" height="12" fill="#39c5cf"/>
-<rect x="541.1262" y="77" width="13.2248" height="12" fill="#da5b0b"/>
-<rect x="554.3510" y="77" width="6.6495" height="12" fill="#89e051"/>
-<rect x="561.0005" y="77" width="4.4597" height="12" fill="#563d7c"/>
-<rect x="565.4602" y="77" width="3.1255" height="12" fill="#f1e05a"/>
-<rect x="568.5856" y="77" width="7.4144" height="12" fill="#8b949e"/>
+<rect x="24.0000" y="77" width="366.0532" height="12" fill="#3572a5"/>
+<rect x="390.0532" y="77" width="48.8989" height="12" fill="#dea584"/>
+<rect x="438.9521" y="77" width="47.6221" height="12" fill="#3178c6"/>
+<rect x="486.5742" y="77" width="36.4987" height="12" fill="#e34c26"/>
+<rect x="523.0729" y="77" width="18.0615" height="12" fill="#39c5cf"/>
+<rect x="541.1344" y="77" width="13.2217" height="12" fill="#da5b0b"/>
+<rect x="554.3561" y="77" width="6.6479" height="12" fill="#89e051"/>
+<rect x="561.0040" y="77" width="4.4586" height="12" fill="#563d7c"/>
+<rect x="565.4626" y="77" width="3.1247" height="12" fill="#f1e05a"/>
+<rect x="568.5874" y="77" width="7.4126" height="12" fill="#8b949e"/>
 </g>
 <circle cx="29" cy="113" r="5" fill="#3572a5"/>
 <text x="42" y="117" fill="#e6edf3" font-size="12">Python</text>

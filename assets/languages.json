@@ -5,91 +5,91 @@
   "languages": [
     {
       "name": "Python",
-      "percentage": 66.306091
+      "percentage": 66.313985
     },
     {
       "name": "Rust",
-      "percentage": 8.860577
+      "percentage": 8.858501
     },
     {
       "name": "TypeScript",
-      "percentage": 8.62921
+      "percentage": 8.627189
     },
     {
       "name": "HTML",
-      "percentage": 6.613629
+      "percentage": 6.612079
     },
     {
       "name": "TeX",
-      "percentage": 3.272773
+      "percentage": 3.272006
     },
     {
       "name": "Jupyter Notebook",
-      "percentage": 2.395797
+      "percentage": 2.395236
     },
     {
       "name": "Shell",
-      "percentage": 1.204617
+      "percentage": 1.204335
     },
     {
       "name": "CSS",
-      "percentage": 0.807915
+      "percentage": 0.807726
     },
     {
       "name": "JavaScript",
-      "percentage": 0.566209
+      "percentage": 0.566076
     },
     {
       "name": "BibTeX Style",
-      "percentage": 0.544044
+      "percentage": 0.543916
     },
     {
       "name": "Astro",
-      "percentage": 0.292187
+      "percentage": 0.292119
     },
     {
       "name": "Java",
-      "percentage": 0.13274
+      "percentage": 0.132709
     },
     {
       "name": "Lean",
-      "percentage": 0.084039
+      "percentage": 0.084019
     },
     {
       "name": "Swift",
-      "percentage": 0.073001
+      "percentage": 0.072984
     },
     {
       "name": "C",
-      "percentage": 0.067456
+      "percentage": 0.06744
     },
     {
       "name": "HCL",
-      "percentage": 0.045581
+      "percentage": 0.04557
     },
     {
       "name": "C++",
-      "percentage": 0.039951
+      "percentage": 0.039942
     },
     {
       "name": "Perl",
-      "percentage": 0.023065
+      "percentage": 0.02306
     },
     {
       "name": "Makefile",
-      "percentage": 0.012383
+      "percentage": 0.01238
     },
     {
       "name": "MDX",
-      "percentage": 0.012239
+      "percentage": 0.012236
     },
     {
       "name": "Dockerfile",
-      "percentage": 0.011421
+      "percentage": 0.011418
     },
     {
       "name": "Jinja",
-      "percentage": 0.005075
+      "percentage": 0.005074
     }
   ]
 }
