@@ -15,4 +15,7 @@ Right now I'm learning Rust for the performance heavy parts of RL systems, and T
 
 Always up for collaborating on research, side projects, competitions, or hackathons. And if you just want to talk RL or interp, reach out anyway, I'm happy to.
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LassNajmuldeen&layout=compact&langs_count=10)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
+  <img alt="Language percentages across my personal and organization repositories, including private repositories" src="assets/languages.svg" width="600">
+</picture>

@@ -1,0 +1,95 @@
+{
+  "updated": "2026-10-01",
+  "metric": "share_of_language_bytes",
+  "scope": "personal_and_organization_repositories_including_private_and_forks",
+  "languages": [
+    {
+      "name": "Python",
+      "percentage": 66.306091
+    },
+    {
+      "name": "Rust",
+      "percentage": 8.860577
+    },
+    {
+      "name": "TypeScript",
+      "percentage": 8.62921
+    },
+    {
+      "name": "HTML",
+      "percentage": 6.613629
+    },
+    {
+      "name": "TeX",
+      "percentage": 3.272773
+    },
+    {
+      "name": "Jupyter Notebook",
+      "percentage": 2.395797
+    },
+    {
+      "name": "Shell",
+      "percentage": 1.204617
+    },
+    {
+      "name": "CSS",
+      "percentage": 0.807915
+    },
+    {
+      "name": "JavaScript",
+      "percentage": 0.566209
+    },
+    {
+      "name": "BibTeX Style",
+      "percentage": 0.544044
+    },
+    {
+      "name": "Astro",
+      "percentage": 0.292187
+    },
+    {
+      "name": "Java",
+      "percentage": 0.13274
+    },
+    {
+      "name": "Lean",
+      "percentage": 0.084039
+    },
+    {
+      "name": "Swift",
+      "percentage": 0.073001
+    },
+    {
+      "name": "C",
+      "percentage": 0.067456
+    },
+    {
+      "name": "HCL",
+      "percentage": 0.045581
+    },
+    {
+      "name": "C++",
+      "percentage": 0.039951
+    },
+    {
+      "name": "Perl",
+      "percentage": 0.023065
+    },
+    {
+      "name": "Makefile",
+      "percentage": 0.012383
+    },
+    {
+      "name": "MDX",
+      "percentage": 0.012239
+    },
+    {
+      "name": "Dockerfile",
+      "percentage": 0.011421
+    },
+    {
+      "name": "Jinja",
+      "percentage": 0.005075
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="296" viewBox="0 0 600 296" role="img" aria-labelledby="title description">
+<title id="title">Repository languages</title>
+<desc id="description">Python: 66.31%; Rust: 8.86%; TypeScript: 8.63%; HTML: 6.61%; TeX: 3.27%; Jupyter Notebook: 2.40%; Shell: 1.20%; CSS: 0.81%; JavaScript: 0.57%; Other: 1.34%; personal and organization repositories, including private repositories and forks. Percentages reflect code size.</desc>
+<rect x="0.5" y="0.5" width="599" height="295" rx="12" fill="#0d1117" stroke="#30363d"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+<text x="24" y="36" fill="#e6edf3" font-size="18" font-weight="600">Repository languages</text>
+<text x="24" y="58" fill="#8b949e" font-size="12">Personal + organization repositories · including private repos</text>
+<defs><clipPath id="bar"><rect x="24" y="77" width="552" height="12" rx="6"/></clipPath></defs>
+<g clip-path="url(#bar)">
+<rect x="24.0000" y="77" width="366.0096" height="12" fill="#3572a5"/>
+<rect x="390.0096" y="77" width="48.9104" height="12" fill="#dea584"/>
+<rect x="438.9200" y="77" width="47.6332" height="12" fill="#3178c6"/>
+<rect x="486.5533" y="77" width="36.5072" height="12" fill="#e34c26"/>
+<rect x="523.0605" y="77" width="18.0657" height="12" fill="#39c5cf"/>
+<rect x="541.1262" y="77" width="13.2248" height="12" fill="#da5b0b"/>
+<rect x="554.3510" y="77" width="6.6495" height="12" fill="#89e051"/>
+<rect x="561.0005" y="77" width="4.4597" height="12" fill="#563d7c"/>
+<rect x="565.4602" y="77" width="3.1255" height="12" fill="#f1e05a"/>
+<rect x="568.5856" y="77" width="7.4144" height="12" fill="#8b949e"/>
+</g>
+<circle cx="29" cy="113" r="5" fill="#3572a5"/>
+<text x="42" y="117" fill="#e6edf3" font-size="12">Python</text>
+<text x="274" y="117" fill="#8b949e" font-size="12" text-anchor="end">66.31%</text>
+<circle cx="317" cy="113" r="5" fill="#dea584"/>
+<text x="330" y="117" fill="#e6edf3" font-size="12">Rust</text>
+<text x="562" y="117" fill="#8b949e" font-size="12" text-anchor="end">8.86%</text>
+<circle cx="29" cy="143" r="5" fill="#3178c6"/>
+<text x="42" y="147" fill="#e6edf3" font-size="12">TypeScript</text>
+<text x="274" y="147" fill="#8b949e" font-size="12" text-anchor="end">8.63%</text>
+<circle cx="317" cy="143" r="5" fill="#e34c26"/>
+<text x="330" y="147" fill="#e6edf3" font-size="12">HTML</text>
+<text x="562" y="147" fill="#8b949e" font-size="12" text-anchor="end">6.61%</text>
+<circle cx="29" cy="173" r="5" fill="#39c5cf"/>
+<text x="42" y="177" fill="#e6edf3" font-size="12">TeX</text>
+<text x="274" y="177" fill="#8b949e" font-size="12" text-anchor="end">3.27%</text>
+<circle cx="317" cy="173" r="5" fill="#da5b0b"/>
+<text x="330" y="177" fill="#e6edf3" font-size="12">Jupyter Notebook</text>
+<text x="562" y="177" fill="#8b949e" font-size="12" text-anchor="end">2.40%</text>
+<circle cx="29" cy="203" r="5" fill="#89e051"/>
+<text x="42" y="207" fill="#e6edf3" font-size="12">Shell</text>
+<text x="274" y="207" fill="#8b949e" font-size="12" text-anchor="end">1.20%</text>
+<circle cx="317" cy="203" r="5" fill="#563d7c"/>
+<text x="330" y="207" fill="#e6edf3" font-size="12">CSS</text>
+<text x="562" y="207" fill="#8b949e" font-size="12" text-anchor="end">0.81%</text>
+<circle cx="29" cy="233" r="5" fill="#f1e05a"/>
+<text x="42" y="237" fill="#e6edf3" font-size="12">JavaScript</text>
+<text x="274" y="237" fill="#8b949e" font-size="12" text-anchor="end">0.57%</text>
+<circle cx="317" cy="233" r="5" fill="#8b949e"/>
+<text x="330" y="237" fill="#e6edf3" font-size="12">Other</text>
+<text x="562" y="237" fill="#8b949e" font-size="12" text-anchor="end">1.34%</text>
+<text x="24" y="277" fill="#8b949e" font-size="11">Share of code by size · includes forks · updated 2026-10-01 UTC</text>
+</g></svg>
