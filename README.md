@@ -13,8 +13,3 @@ Right now I'm learning Rust for the performance heavy parts of RL systems, and T
 **ML & training:** PyTorch, TransformerLens, Hugging Face Transformers & Datasets, FSDP2
 
 **RL & inference:** SGLang, vLLM, verl
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LassNajmuldeen/LassNajmuldeen/main/assets/contribution-calendar-dark.svg">
-  <img alt="3D calendar of my GitHub contributions over the past year" src="https://raw.githubusercontent.com/LassNajmuldeen/LassNajmuldeen/main/assets/contribution-calendar.svg" width="600">
-</picture>
