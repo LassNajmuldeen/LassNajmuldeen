@@ -1,0 +1,2363 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="420" viewBox="0 0 600 420" role="img" aria-labelledby="title desc">
+<!--
+Adapted from lowlighter/metrics, source/plugins/isocalendar/index.mjs.
+https://github.com/lowlighter/metrics
+
+MIT License
+Copyright (c) 2020-present lowlighter
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+-->
+<title id="title">3D contribution calendar for LassNajmuldeen</title>
+<desc id="desc">2983 contributions from 2025-09-28 to 2026-09-30, including private activity. Each column represents one day; height represents the contribution count. One-time preview.</desc>
+<rect x="0.5" y="0.5" width="599" height="419" rx="12" fill="#ffffff" stroke="#d1d9e0"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+<text x="24" y="36" font-size="18" font-weight="600" fill="#1f2328">Contributions calendar</text>
+<text x="24" y="60" font-size="13" fill="#59636e">2,983 contributions in the past year</text>
+<svg x="12" y="76" width="576" height="324" viewBox="0 0 480 270">
+<defs>
+<filter id="brightness1"><feComponentTransfer>
+<feFuncR type="linear" slope="0.6"/>
+<feFuncG type="linear" slope="0.6"/>
+<feFuncB type="linear" slope="0.6"/>
+</feComponentTransfer></filter>
+<filter id="brightness2"><feComponentTransfer>
+<feFuncR type="linear" slope="0.19999999999999996"/>
+<feFuncG type="linear" slope="0.19999999999999996"/>
+<feFuncB type="linear" slope="0.19999999999999996"/>
+</feComponentTransfer></filter>
+</defs>
+<g transform="scale(4) translate(12,0)">
+<g transform="translate(0.0,0)">
+<g transform="translate(-0.0,5.890909090909091)">
+<title>2025-09-28: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+<g transform="translate(-1.7,6.8)">
+<title>2025-09-29: 11 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2 0,1.2 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2 1.7,2.2 z"/>
+</g>
+<g transform="translate(-3.4,7.909090909090909)">
+<title>2025-09-30: 5 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.090909090909091 0,1.0909090909090908 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0909090909090908 1.7,2.090909090909091 z"/>
+</g>
+<g transform="translate(-5.1,8.872727272727273)">
+<title>2025-10-01: 7 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1272727272727274 0,1.1272727272727272 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1272727272727272 1.7,2.1272727272727274 z"/>
+</g>
+<g transform="translate(-6.8,9.872727272727273)">
+<title>2025-10-02: 7 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1272727272727274 0,1.1272727272727272 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1272727272727272 1.7,2.1272727272727274 z"/>
+</g>
+<g transform="translate(-8.5,10.98181818181818)">
+<title>2025-10-03: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+<g transform="translate(-10.2,11.763636363636364)">
+<title>2025-10-04: 13 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2363636363636363 0,1.2363636363636363 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2363636363636363 1.7,2.2363636363636363 z"/>
+</g>
+</g>
+<g transform="translate(1.7,1)">
+<g transform="translate(-0.0,5.872727272727273)">
+<title>2025-10-05: 7 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1272727272727274 0,1.1272727272727272 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1272727272727272 1.7,2.1272727272727274 z"/>
+</g>
+<g transform="translate(-1.7,6.945454545454545)">
+<title>2025-10-06: 3 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0545454545454547 0,1.0545454545454545 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0545454545454545 1.7,2.0545454545454547 z"/>
+</g>
+<g transform="translate(-3.4,7.836363636363637)">
+<title>2025-10-07: 9 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1636363636363636 0,1.1636363636363636 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1636363636363636 1.7,2.1636363636363636 z"/>
+</g>
+<g transform="translate(-5.1,8.98181818181818)">
+<title>2025-10-08: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+<g transform="translate(-6.8,9.89090909090909)">
+<title>2025-10-09: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+<g transform="translate(-8.5,11.0)">
+<title>2025-10-10: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-10.2,11.90909090909091)">
+<title>2025-10-11: 5 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.090909090909091 0,1.0909090909090908 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0909090909090908 1.7,2.090909090909091 z"/>
+</g>
+</g>
+<g transform="translate(3.4,2)">
+<g transform="translate(-0.0,5.872727272727273)">
+<title>2025-10-12: 7 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1272727272727274 0,1.1272727272727272 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1272727272727272 1.7,2.1272727272727274 z"/>
+</g>
+<g transform="translate(-1.7,6.8545454545454545)">
+<title>2025-10-13: 8 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1454545454545455 0,1.1454545454545455 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1454545454545455 1.7,2.1454545454545455 z"/>
+</g>
+<g transform="translate(-3.4,7.909090909090909)">
+<title>2025-10-14: 5 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.090909090909091 0,1.0909090909090908 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0909090909090908 1.7,2.090909090909091 z"/>
+</g>
+<g transform="translate(-5.1,8.945454545454545)">
+<title>2025-10-15: 3 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0545454545454547 0,1.0545454545454545 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0545454545454545 1.7,2.0545454545454547 z"/>
+</g>
+<g transform="translate(-6.8,9.745454545454546)">
+<title>2025-10-16: 14 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2545454545454544 0,1.2545454545454546 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2545454545454546 1.7,2.2545454545454544 z"/>
+</g>
+<g transform="translate(-8.5,10.927272727272728)">
+<title>2025-10-17: 4 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0727272727272728 0,1.0727272727272728 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0727272727272728 1.7,2.0727272727272728 z"/>
+</g>
+<g transform="translate(-10.2,11.89090909090909)">
+<title>2025-10-18: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+</g>
+<g transform="translate(5.1,3)">
+<g transform="translate(-0.0,5.8545454545454545)">
+<title>2025-10-19: 8 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1454545454545455 0,1.1454545454545455 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1454545454545455 1.7,2.1454545454545455 z"/>
+</g>
+<g transform="translate(-1.7,6.890909090909091)">
+<title>2025-10-20: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+<g transform="translate(-3.4,7.836363636363637)">
+<title>2025-10-21: 9 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1636363636363636 0,1.1636363636363636 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1636363636363636 1.7,2.1636363636363636 z"/>
+</g>
+<g transform="translate(-5.1,8.963636363636363)">
+<title>2025-10-22: 2 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.036363636363636 0,1.0363636363636364 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0363636363636364 1.7,2.036363636363636 z"/>
+</g>
+<g transform="translate(-6.8,9.836363636363636)">
+<title>2025-10-23: 9 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1636363636363636 0,1.1636363636363636 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1636363636363636 1.7,2.1636363636363636 z"/>
+</g>
+<g transform="translate(-8.5,11.0)">
+<title>2025-10-24: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-10.2,11.963636363636363)">
+<title>2025-10-25: 2 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.036363636363636 0,1.0363636363636364 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0363636363636364 1.7,2.036363636363636 z"/>
+</g>
+</g>
+<g transform="translate(6.8,4)">
+<g transform="translate(-0.0,5.872727272727273)">
+<title>2025-10-26: 7 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1272727272727274 0,1.1272727272727272 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1272727272727272 1.7,2.1272727272727274 z"/>
+</g>
+<g transform="translate(-1.7,6.818181818181818)">
+<title>2025-10-27: 10 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1818181818181817 0,1.1818181818181819 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1818181818181819 1.7,2.1818181818181817 z"/>
+</g>
+<g transform="translate(-3.4,7.818181818181818)">
+<title>2025-10-28: 10 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1818181818181817 0,1.1818181818181819 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1818181818181819 1.7,2.1818181818181817 z"/>
+</g>
+<g transform="translate(-5.1,8.927272727272728)">
+<title>2025-10-29: 4 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0727272727272728 0,1.0727272727272728 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0727272727272728 1.7,2.0727272727272728 z"/>
+</g>
+<g transform="translate(-6.8,9.854545454545455)">
+<title>2025-10-30: 8 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1454545454545455 0,1.1454545454545455 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1454545454545455 1.7,2.1454545454545455 z"/>
+</g>
+<g transform="translate(-8.5,10.89090909090909)">
+<title>2025-10-31: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+<g transform="translate(-10.2,11.854545454545455)">
+<title>2025-11-01: 8 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1454545454545455 0,1.1454545454545455 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1454545454545455 1.7,2.1454545454545455 z"/>
+</g>
+</g>
+<g transform="translate(8.5,5)">
+<g transform="translate(-0.0,5.8545454545454545)">
+<title>2025-11-02: 8 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1454545454545455 0,1.1454545454545455 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1454545454545455 1.7,2.1454545454545455 z"/>
+</g>
+<g transform="translate(-1.7,7.0)">
+<title>2025-11-03: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-3.4,7.781818181818181)">
+<title>2025-11-04: 12 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2181818181818183 0,1.2181818181818183 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2181818181818183 1.7,2.2181818181818183 z"/>
+</g>
+<g transform="translate(-5.1,8.89090909090909)">
+<title>2025-11-05: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+<g transform="translate(-6.8,9.90909090909091)">
+<title>2025-11-06: 5 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.090909090909091 0,1.0909090909090908 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0909090909090908 1.7,2.090909090909091 z"/>
+</g>
+<g transform="translate(-8.5,10.963636363636363)">
+<title>2025-11-07: 2 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.036363636363636 0,1.0363636363636364 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0363636363636364 1.7,2.036363636363636 z"/>
+</g>
+<g transform="translate(-10.2,12.0)">
+<title>2025-11-08: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+</g>
+<g transform="translate(10.2,6)">
+<g transform="translate(-0.0,5.872727272727273)">
+<title>2025-11-09: 7 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1272727272727274 0,1.1272727272727272 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1272727272727272 1.7,2.1272727272727274 z"/>
+</g>
+<g transform="translate(-1.7,6.890909090909091)">
+<title>2025-11-10: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+<g transform="translate(-3.4,7.9818181818181815)">
+<title>2025-11-11: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+<g transform="translate(-5.1,8.818181818181818)">
+<title>2025-11-12: 10 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1818181818181817 0,1.1818181818181819 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1818181818181819 1.7,2.1818181818181817 z"/>
+</g>
+<g transform="translate(-6.8,9.781818181818181)">
+<title>2025-11-13: 12 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2181818181818183 0,1.2181818181818183 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2181818181818183 1.7,2.2181818181818183 z"/>
+</g>
+<g transform="translate(-8.5,10.98181818181818)">
+<title>2025-11-14: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+<g transform="translate(-10.2,11.836363636363636)">
+<title>2025-11-15: 9 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1636363636363636 0,1.1636363636363636 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1636363636363636 1.7,2.1636363636363636 z"/>
+</g>
+</g>
+<g transform="translate(11.9,7)">
+<g transform="translate(-0.0,5.963636363636363)">
+<title>2025-11-16: 2 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.036363636363636 0,1.0363636363636364 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0363636363636364 1.7,2.036363636363636 z"/>
+</g>
+<g transform="translate(-1.7,6.836363636363637)">
+<title>2025-11-17: 9 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1636363636363636 0,1.1636363636363636 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1636363636363636 1.7,2.1636363636363636 z"/>
+</g>
+<g transform="translate(-3.4,7.927272727272728)">
+<title>2025-11-18: 4 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0727272727272728 0,1.0727272727272728 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0727272727272728 1.7,2.0727272727272728 z"/>
+</g>
+<g transform="translate(-5.1,8.818181818181818)">
+<title>2025-11-19: 10 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1818181818181817 0,1.1818181818181819 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1818181818181819 1.7,2.1818181818181817 z"/>
+</g>
+<g transform="translate(-6.8,9.836363636363636)">
+<title>2025-11-20: 9 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1636363636363636 0,1.1636363636363636 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1636363636363636 1.7,2.1636363636363636 z"/>
+</g>
+<g transform="translate(-8.5,10.8)">
+<title>2025-11-21: 11 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2 0,1.2 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2 1.7,2.2 z"/>
+</g>
+<g transform="translate(-10.2,11.872727272727273)">
+<title>2025-11-22: 7 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1272727272727274 0,1.1272727272727272 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1272727272727272 1.7,2.1272727272727274 z"/>
+</g>
+</g>
+<g transform="translate(13.6,8)">
+<g transform="translate(-0.0,5.872727272727273)">
+<title>2025-11-23: 7 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1272727272727274 0,1.1272727272727272 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1272727272727272 1.7,2.1272727272727274 z"/>
+</g>
+<g transform="translate(-1.7,6.690909090909091)">
+<title>2025-11-24: 17 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.309090909090909 0,1.309090909090909 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.309090909090909 1.7,2.309090909090909 z"/>
+</g>
+<g transform="translate(-3.4,7.945454545454545)">
+<title>2025-11-25: 3 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0545454545454547 0,1.0545454545454545 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0545454545454545 1.7,2.0545454545454547 z"/>
+</g>
+<g transform="translate(-5.1,8.98181818181818)">
+<title>2025-11-26: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+<g transform="translate(-6.8,9.90909090909091)">
+<title>2025-11-27: 5 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.090909090909091 0,1.0909090909090908 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0909090909090908 1.7,2.090909090909091 z"/>
+</g>
+<g transform="translate(-8.5,10.89090909090909)">
+<title>2025-11-28: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+<g transform="translate(-10.2,11.872727272727273)">
+<title>2025-11-29: 7 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1272727272727274 0,1.1272727272727272 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1272727272727272 1.7,2.1272727272727274 z"/>
+</g>
+</g>
+<g transform="translate(15.299999999999999,9)">
+<g transform="translate(-0.0,5.9818181818181815)">
+<title>2025-11-30: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+<g transform="translate(-1.7,6.927272727272728)">
+<title>2025-12-01: 4 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0727272727272728 0,1.0727272727272728 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0727272727272728 1.7,2.0727272727272728 z"/>
+</g>
+<g transform="translate(-3.4,8.0)">
+<title>2025-12-02: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-5.1,8.98181818181818)">
+<title>2025-12-03: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+<g transform="translate(-6.8,10.0)">
+<title>2025-12-04: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-8.5,11.0)">
+<title>2025-12-05: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-10.2,12.0)">
+<title>2025-12-06: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+</g>
+<g transform="translate(17.0,10)">
+<g transform="translate(-0.0,5.909090909090909)">
+<title>2025-12-07: 5 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.090909090909091 0,1.0909090909090908 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0909090909090908 1.7,2.090909090909091 z"/>
+</g>
+<g transform="translate(-1.7,6.909090909090909)">
+<title>2025-12-08: 5 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.090909090909091 0,1.0909090909090908 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0909090909090908 1.7,2.090909090909091 z"/>
+</g>
+<g transform="translate(-3.4,7.927272727272728)">
+<title>2025-12-09: 4 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0727272727272728 0,1.0727272727272728 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0727272727272728 1.7,2.0727272727272728 z"/>
+</g>
+<g transform="translate(-5.1,8.945454545454545)">
+<title>2025-12-10: 3 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0545454545454547 0,1.0545454545454545 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0545454545454545 1.7,2.0545454545454547 z"/>
+</g>
+<g transform="translate(-6.8,9.89090909090909)">
+<title>2025-12-11: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+<g transform="translate(-8.5,10.963636363636363)">
+<title>2025-12-12: 2 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.036363636363636 0,1.0363636363636364 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0363636363636364 1.7,2.036363636363636 z"/>
+</g>
+<g transform="translate(-10.2,11.98181818181818)">
+<title>2025-12-13: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+</g>
+<g transform="translate(18.7,11)">
+<g transform="translate(-0.0,5.836363636363637)">
+<title>2025-12-14: 9 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1636363636363636 0,1.1636363636363636 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1636363636363636 1.7,2.1636363636363636 z"/>
+</g>
+<g transform="translate(-1.7,6.9818181818181815)">
+<title>2025-12-15: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+<g transform="translate(-3.4,7.9818181818181815)">
+<title>2025-12-16: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+<g transform="translate(-5.1,8.89090909090909)">
+<title>2025-12-17: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+<g transform="translate(-6.8,9.727272727272727)">
+<title>2025-12-18: 15 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2727272727272725 0,1.2727272727272727 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2727272727272727 1.7,2.2727272727272725 z"/>
+</g>
+<g transform="translate(-8.5,10.98181818181818)">
+<title>2025-12-19: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+<g transform="translate(-10.2,11.945454545454545)">
+<title>2025-12-20: 3 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0545454545454547 0,1.0545454545454545 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0545454545454545 1.7,2.0545454545454547 z"/>
+</g>
+</g>
+<g transform="translate(20.4,12)">
+<g transform="translate(-0.0,6.0)">
+<title>2025-12-21: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-1.7,7.0)">
+<title>2025-12-22: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-3.4,7.963636363636363)">
+<title>2025-12-23: 2 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.036363636363636 0,1.0363636363636364 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0363636363636364 1.7,2.036363636363636 z"/>
+</g>
+<g transform="translate(-5.1,8.98181818181818)">
+<title>2025-12-24: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+<g transform="translate(-6.8,10.0)">
+<title>2025-12-25: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-8.5,11.0)">
+<title>2025-12-26: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-10.2,11.836363636363636)">
+<title>2025-12-27: 9 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1636363636363636 0,1.1636363636363636 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1636363636363636 1.7,2.1636363636363636 z"/>
+</g>
+</g>
+<g transform="translate(22.099999999999998,13)">
+<g transform="translate(-0.0,5.927272727272728)">
+<title>2025-12-28: 4 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0727272727272728 0,1.0727272727272728 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0727272727272728 1.7,2.0727272727272728 z"/>
+</g>
+<g transform="translate(-1.7,6.963636363636363)">
+<title>2025-12-29: 2 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.036363636363636 0,1.0363636363636364 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0363636363636364 1.7,2.036363636363636 z"/>
+</g>
+<g transform="translate(-3.4,7.909090909090909)">
+<title>2025-12-30: 5 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.090909090909091 0,1.0909090909090908 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0909090909090908 1.7,2.090909090909091 z"/>
+</g>
+<g transform="translate(-5.1,8.963636363636363)">
+<title>2025-12-31: 2 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.036363636363636 0,1.0363636363636364 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0363636363636364 1.7,2.036363636363636 z"/>
+</g>
+<g transform="translate(-6.8,10.0)">
+<title>2026-01-01: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-8.5,11.0)">
+<title>2026-01-02: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-10.2,12.0)">
+<title>2026-01-03: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+</g>
+<g transform="translate(23.8,14)">
+<g transform="translate(-0.0,6.0)">
+<title>2026-01-04: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-1.7,7.0)">
+<title>2026-01-05: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-3.4,7.8545454545454545)">
+<title>2026-01-06: 8 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1454545454545455 0,1.1454545454545455 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1454545454545455 1.7,2.1454545454545455 z"/>
+</g>
+<g transform="translate(-5.1,8.781818181818181)">
+<title>2026-01-07: 12 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2181818181818183 0,1.2181818181818183 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2181818181818183 1.7,2.2181818181818183 z"/>
+</g>
+<g transform="translate(-6.8,9.854545454545455)">
+<title>2026-01-08: 8 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1454545454545455 0,1.1454545454545455 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1454545454545455 1.7,2.1454545454545455 z"/>
+</g>
+<g transform="translate(-8.5,10.945454545454545)">
+<title>2026-01-09: 3 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0545454545454547 0,1.0545454545454545 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0545454545454545 1.7,2.0545454545454547 z"/>
+</g>
+<g transform="translate(-10.2,11.781818181818181)">
+<title>2026-01-10: 12 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2181818181818183 0,1.2181818181818183 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2181818181818183 1.7,2.2181818181818183 z"/>
+</g>
+</g>
+<g transform="translate(25.5,15)">
+<g transform="translate(-0.0,5.872727272727273)">
+<title>2026-01-11: 7 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1272727272727274 0,1.1272727272727272 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1272727272727272 1.7,2.1272727272727274 z"/>
+</g>
+<g transform="translate(-1.7,6.945454545454545)">
+<title>2026-01-12: 3 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0545454545454547 0,1.0545454545454545 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0545454545454545 1.7,2.0545454545454547 z"/>
+</g>
+<g transform="translate(-3.4,7.909090909090909)">
+<title>2026-01-13: 5 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.090909090909091 0,1.0909090909090908 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0909090909090908 1.7,2.090909090909091 z"/>
+</g>
+<g transform="translate(-5.1,8.98181818181818)">
+<title>2026-01-14: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+<g transform="translate(-6.8,9.945454545454545)">
+<title>2026-01-15: 3 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0545454545454547 0,1.0545454545454545 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0545454545454545 1.7,2.0545454545454547 z"/>
+</g>
+<g transform="translate(-8.5,10.836363636363636)">
+<title>2026-01-16: 9 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1636363636363636 0,1.1636363636363636 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1636363636363636 1.7,2.1636363636363636 z"/>
+</g>
+<g transform="translate(-10.2,11.98181818181818)">
+<title>2026-01-17: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+</g>
+<g transform="translate(27.2,16)">
+<g transform="translate(-0.0,5.909090909090909)">
+<title>2026-01-18: 5 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.090909090909091 0,1.0909090909090908 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0909090909090908 1.7,2.090909090909091 z"/>
+</g>
+<g transform="translate(-1.7,6.927272727272728)">
+<title>2026-01-19: 4 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0727272727272728 0,1.0727272727272728 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0727272727272728 1.7,2.0727272727272728 z"/>
+</g>
+<g transform="translate(-3.4,7.8545454545454545)">
+<title>2026-01-20: 8 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1454545454545455 0,1.1454545454545455 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1454545454545455 1.7,2.1454545454545455 z"/>
+</g>
+<g transform="translate(-5.1,8.963636363636363)">
+<title>2026-01-21: 2 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.036363636363636 0,1.0363636363636364 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0363636363636364 1.7,2.036363636363636 z"/>
+</g>
+<g transform="translate(-6.8,9.945454545454545)">
+<title>2026-01-22: 3 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0545454545454547 0,1.0545454545454545 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0545454545454545 1.7,2.0545454545454547 z"/>
+</g>
+<g transform="translate(-8.5,10.927272727272728)">
+<title>2026-01-23: 4 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0727272727272728 0,1.0727272727272728 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0727272727272728 1.7,2.0727272727272728 z"/>
+</g>
+<g transform="translate(-10.2,11.945454545454545)">
+<title>2026-01-24: 3 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0545454545454547 0,1.0545454545454545 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0545454545454545 1.7,2.0545454545454547 z"/>
+</g>
+</g>
+<g transform="translate(28.9,17)">
+<g transform="translate(-0.0,6.0)">
+<title>2026-01-25: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-1.7,7.0)">
+<title>2026-01-26: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-3.4,8.0)">
+<title>2026-01-27: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-5.1,9.0)">
+<title>2026-01-28: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-6.8,10.0)">
+<title>2026-01-29: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-8.5,11.0)">
+<title>2026-01-30: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-10.2,11.8)">
+<title>2026-01-31: 11 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2 0,1.2 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2 1.7,2.2 z"/>
+</g>
+</g>
+<g transform="translate(30.599999999999998,18)">
+<g transform="translate(-0.0,5.745454545454545)">
+<title>2026-02-01: 14 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2545454545454544 0,1.2545454545454546 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2545454545454546 1.7,2.2545454545454544 z"/>
+</g>
+<g transform="translate(-1.7,6.890909090909091)">
+<title>2026-02-02: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+<g transform="translate(-3.4,8.0)">
+<title>2026-02-03: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-5.1,8.89090909090909)">
+<title>2026-02-04: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+<g transform="translate(-6.8,9.872727272727273)">
+<title>2026-02-05: 7 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1272727272727274 0,1.1272727272727272 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1272727272727272 1.7,2.1272727272727274 z"/>
+</g>
+<g transform="translate(-8.5,10.89090909090909)">
+<title>2026-02-06: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+<g transform="translate(-10.2,11.854545454545455)">
+<title>2026-02-07: 8 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1454545454545455 0,1.1454545454545455 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1454545454545455 1.7,2.1454545454545455 z"/>
+</g>
+</g>
+<g transform="translate(32.3,19)">
+<g transform="translate(-0.0,5.836363636363637)">
+<title>2026-02-08: 9 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1636363636363636 0,1.1636363636363636 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1636363636363636 1.7,2.1636363636363636 z"/>
+</g>
+<g transform="translate(-1.7,6.836363636363637)">
+<title>2026-02-09: 9 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1636363636363636 0,1.1636363636363636 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1636363636363636 1.7,2.1636363636363636 z"/>
+</g>
+<g transform="translate(-3.4,7.927272727272728)">
+<title>2026-02-10: 4 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0727272727272728 0,1.0727272727272728 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0727272727272728 1.7,2.0727272727272728 z"/>
+</g>
+<g transform="translate(-5.1,8.836363636363636)">
+<title>2026-02-11: 9 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1636363636363636 0,1.1636363636363636 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1636363636363636 1.7,2.1636363636363636 z"/>
+</g>
+<g transform="translate(-6.8,9.927272727272728)">
+<title>2026-02-12: 4 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0727272727272728 0,1.0727272727272728 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0727272727272728 1.7,2.0727272727272728 z"/>
+</g>
+<g transform="translate(-8.5,10.89090909090909)">
+<title>2026-02-13: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+<g transform="translate(-10.2,11.89090909090909)">
+<title>2026-02-14: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+</g>
+<g transform="translate(34.0,20)">
+<g transform="translate(-0.0,5.909090909090909)">
+<title>2026-02-15: 5 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.090909090909091 0,1.0909090909090908 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0909090909090908 1.7,2.090909090909091 z"/>
+</g>
+<g transform="translate(-1.7,6.909090909090909)">
+<title>2026-02-16: 5 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.090909090909091 0,1.0909090909090908 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0909090909090908 1.7,2.090909090909091 z"/>
+</g>
+<g transform="translate(-3.4,7.927272727272728)">
+<title>2026-02-17: 4 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0727272727272728 0,1.0727272727272728 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0727272727272728 1.7,2.0727272727272728 z"/>
+</g>
+<g transform="translate(-5.1,8.89090909090909)">
+<title>2026-02-18: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+<g transform="translate(-6.8,9.98181818181818)">
+<title>2026-02-19: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+<g transform="translate(-8.5,10.963636363636363)">
+<title>2026-02-20: 2 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.036363636363636 0,1.0363636363636364 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0363636363636364 1.7,2.036363636363636 z"/>
+</g>
+<g transform="translate(-10.2,11.90909090909091)">
+<title>2026-02-21: 5 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.090909090909091 0,1.0909090909090908 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0909090909090908 1.7,2.090909090909091 z"/>
+</g>
+</g>
+<g transform="translate(35.699999999999996,21)">
+<g transform="translate(-0.0,5.8545454545454545)">
+<title>2026-02-22: 8 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1454545454545455 0,1.1454545454545455 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1454545454545455 1.7,2.1454545454545455 z"/>
+</g>
+<g transform="translate(-1.7,6.890909090909091)">
+<title>2026-02-23: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+<g transform="translate(-3.4,7.927272727272728)">
+<title>2026-02-24: 4 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0727272727272728 0,1.0727272727272728 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0727272727272728 1.7,2.0727272727272728 z"/>
+</g>
+<g transform="translate(-5.1,8.927272727272728)">
+<title>2026-02-25: 4 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0727272727272728 0,1.0727272727272728 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0727272727272728 1.7,2.0727272727272728 z"/>
+</g>
+<g transform="translate(-6.8,9.89090909090909)">
+<title>2026-02-26: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+<g transform="translate(-8.5,11.0)">
+<title>2026-02-27: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-10.2,11.945454545454545)">
+<title>2026-02-28: 3 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0545454545454547 0,1.0545454545454545 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0545454545454545 1.7,2.0545454545454547 z"/>
+</g>
+</g>
+<g transform="translate(37.4,22)">
+<g transform="translate(-0.0,5.963636363636363)">
+<title>2026-03-01: 2 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.036363636363636 0,1.0363636363636364 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0363636363636364 1.7,2.036363636363636 z"/>
+</g>
+<g transform="translate(-1.7,6.945454545454545)">
+<title>2026-03-02: 3 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0545454545454547 0,1.0545454545454545 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0545454545454545 1.7,2.0545454545454547 z"/>
+</g>
+<g transform="translate(-3.4,7.890909090909091)">
+<title>2026-03-03: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+<g transform="translate(-5.1,8.89090909090909)">
+<title>2026-03-04: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+<g transform="translate(-6.8,9.927272727272728)">
+<title>2026-03-05: 4 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0727272727272728 0,1.0727272727272728 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0727272727272728 1.7,2.0727272727272728 z"/>
+</g>
+<g transform="translate(-8.5,10.927272727272728)">
+<title>2026-03-06: 4 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0727272727272728 0,1.0727272727272728 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0727272727272728 1.7,2.0727272727272728 z"/>
+</g>
+<g transform="translate(-10.2,12.0)">
+<title>2026-03-07: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+</g>
+<g transform="translate(39.1,23)">
+<g transform="translate(-0.0,6.0)">
+<title>2026-03-08: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-1.7,6.9818181818181815)">
+<title>2026-03-09: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+<g transform="translate(-3.4,8.0)">
+<title>2026-03-10: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-5.1,8.98181818181818)">
+<title>2026-03-11: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+<g transform="translate(-6.8,10.0)">
+<title>2026-03-12: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-8.5,10.98181818181818)">
+<title>2026-03-13: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+<g transform="translate(-10.2,11.872727272727273)">
+<title>2026-03-14: 7 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1272727272727274 0,1.1272727272727272 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1272727272727272 1.7,2.1272727272727274 z"/>
+</g>
+</g>
+<g transform="translate(40.8,24)">
+<g transform="translate(-0.0,6.0)">
+<title>2026-03-15: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-1.7,7.0)">
+<title>2026-03-16: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-3.4,8.0)">
+<title>2026-03-17: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-5.1,9.0)">
+<title>2026-03-18: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-6.8,9.963636363636363)">
+<title>2026-03-19: 2 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.036363636363636 0,1.0363636363636364 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0363636363636364 1.7,2.036363636363636 z"/>
+</g>
+<g transform="translate(-8.5,10.89090909090909)">
+<title>2026-03-20: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+<g transform="translate(-10.2,11.963636363636363)">
+<title>2026-03-21: 2 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.036363636363636 0,1.0363636363636364 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0363636363636364 1.7,2.036363636363636 z"/>
+</g>
+</g>
+<g transform="translate(42.5,25)">
+<g transform="translate(-0.0,5.9818181818181815)">
+<title>2026-03-22: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+<g transform="translate(-1.7,6.963636363636363)">
+<title>2026-03-23: 2 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.036363636363636 0,1.0363636363636364 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0363636363636364 1.7,2.036363636363636 z"/>
+</g>
+<g transform="translate(-3.4,8.0)">
+<title>2026-03-24: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-5.1,8.963636363636363)">
+<title>2026-03-25: 2 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.036363636363636 0,1.0363636363636364 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0363636363636364 1.7,2.036363636363636 z"/>
+</g>
+<g transform="translate(-6.8,9.927272727272728)">
+<title>2026-03-26: 4 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0727272727272728 0,1.0727272727272728 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0727272727272728 1.7,2.0727272727272728 z"/>
+</g>
+<g transform="translate(-8.5,10.945454545454545)">
+<title>2026-03-27: 3 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0545454545454547 0,1.0545454545454545 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0545454545454545 1.7,2.0545454545454547 z"/>
+</g>
+<g transform="translate(-10.2,11.854545454545455)">
+<title>2026-03-28: 8 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1454545454545455 0,1.1454545454545455 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1454545454545455 1.7,2.1454545454545455 z"/>
+</g>
+</g>
+<g transform="translate(44.199999999999996,26)">
+<g transform="translate(-0.0,5.963636363636363)">
+<title>2026-03-29: 2 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.036363636363636 0,1.0363636363636364 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0363636363636364 1.7,2.036363636363636 z"/>
+</g>
+<g transform="translate(-1.7,6.963636363636363)">
+<title>2026-03-30: 2 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.036363636363636 0,1.0363636363636364 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0363636363636364 1.7,2.036363636363636 z"/>
+</g>
+<g transform="translate(-3.4,7.927272727272728)">
+<title>2026-03-31: 4 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0727272727272728 0,1.0727272727272728 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0727272727272728 1.7,2.0727272727272728 z"/>
+</g>
+<g transform="translate(-5.1,8.927272727272728)">
+<title>2026-04-01: 4 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0727272727272728 0,1.0727272727272728 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0727272727272728 1.7,2.0727272727272728 z"/>
+</g>
+<g transform="translate(-6.8,9.89090909090909)">
+<title>2026-04-02: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+<g transform="translate(-8.5,10.872727272727273)">
+<title>2026-04-03: 7 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1272727272727274 0,1.1272727272727272 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1272727272727272 1.7,2.1272727272727274 z"/>
+</g>
+<g transform="translate(-10.2,11.945454545454545)">
+<title>2026-04-04: 3 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0545454545454547 0,1.0545454545454545 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0545454545454545 1.7,2.0545454545454547 z"/>
+</g>
+</g>
+<g transform="translate(45.9,27)">
+<g transform="translate(-0.0,5.945454545454545)">
+<title>2026-04-05: 3 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0545454545454547 0,1.0545454545454545 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0545454545454545 1.7,2.0545454545454547 z"/>
+</g>
+<g transform="translate(-1.7,6.8545454545454545)">
+<title>2026-04-06: 8 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1454545454545455 0,1.1454545454545455 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1454545454545455 1.7,2.1454545454545455 z"/>
+</g>
+<g transform="translate(-3.4,7.927272727272728)">
+<title>2026-04-07: 4 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0727272727272728 0,1.0727272727272728 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0727272727272728 1.7,2.0727272727272728 z"/>
+</g>
+<g transform="translate(-5.1,9.0)">
+<title>2026-04-08: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-6.8,9.927272727272728)">
+<title>2026-04-09: 4 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0727272727272728 0,1.0727272727272728 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0727272727272728 1.7,2.0727272727272728 z"/>
+</g>
+<g transform="translate(-8.5,10.98181818181818)">
+<title>2026-04-10: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+<g transform="translate(-10.2,11.98181818181818)">
+<title>2026-04-11: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+</g>
+<g transform="translate(47.6,28)">
+<g transform="translate(-0.0,6.0)">
+<title>2026-04-12: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-1.7,6.945454545454545)">
+<title>2026-04-13: 3 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0545454545454547 0,1.0545454545454545 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0545454545454545 1.7,2.0545454545454547 z"/>
+</g>
+<g transform="translate(-3.4,7.963636363636363)">
+<title>2026-04-14: 2 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.036363636363636 0,1.0363636363636364 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0363636363636364 1.7,2.036363636363636 z"/>
+</g>
+<g transform="translate(-5.1,8.90909090909091)">
+<title>2026-04-15: 5 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.090909090909091 0,1.0909090909090908 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0909090909090908 1.7,2.090909090909091 z"/>
+</g>
+<g transform="translate(-6.8,9.872727272727273)">
+<title>2026-04-16: 7 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1272727272727274 0,1.1272727272727272 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1272727272727272 1.7,2.1272727272727274 z"/>
+</g>
+<g transform="translate(-8.5,10.927272727272728)">
+<title>2026-04-17: 4 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0727272727272728 0,1.0727272727272728 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0727272727272728 1.7,2.0727272727272728 z"/>
+</g>
+<g transform="translate(-10.2,11.89090909090909)">
+<title>2026-04-18: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+</g>
+<g transform="translate(49.3,29)">
+<g transform="translate(-0.0,5.818181818181818)">
+<title>2026-04-19: 10 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1818181818181817 0,1.1818181818181819 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1818181818181819 1.7,2.1818181818181817 z"/>
+</g>
+<g transform="translate(-1.7,6.963636363636363)">
+<title>2026-04-20: 2 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.036363636363636 0,1.0363636363636364 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0363636363636364 1.7,2.036363636363636 z"/>
+</g>
+<g transform="translate(-3.4,7.909090909090909)">
+<title>2026-04-21: 5 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.090909090909091 0,1.0909090909090908 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0909090909090908 1.7,2.090909090909091 z"/>
+</g>
+<g transform="translate(-5.1,8.90909090909091)">
+<title>2026-04-22: 5 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.090909090909091 0,1.0909090909090908 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0909090909090908 1.7,2.090909090909091 z"/>
+</g>
+<g transform="translate(-6.8,9.945454545454545)">
+<title>2026-04-23: 3 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0545454545454547 0,1.0545454545454545 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0545454545454545 1.7,2.0545454545454547 z"/>
+</g>
+<g transform="translate(-8.5,10.90909090909091)">
+<title>2026-04-24: 5 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.090909090909091 0,1.0909090909090908 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0909090909090908 1.7,2.090909090909091 z"/>
+</g>
+<g transform="translate(-10.2,11.98181818181818)">
+<title>2026-04-25: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+</g>
+<g transform="translate(51.0,30)">
+<g transform="translate(-0.0,5.963636363636363)">
+<title>2026-04-26: 2 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.036363636363636 0,1.0363636363636364 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0363636363636364 1.7,2.036363636363636 z"/>
+</g>
+<g transform="translate(-1.7,6.963636363636363)">
+<title>2026-04-27: 2 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.036363636363636 0,1.0363636363636364 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0363636363636364 1.7,2.036363636363636 z"/>
+</g>
+<g transform="translate(-3.4,7.909090909090909)">
+<title>2026-04-28: 5 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.090909090909091 0,1.0909090909090908 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0909090909090908 1.7,2.090909090909091 z"/>
+</g>
+<g transform="translate(-5.1,8.927272727272728)">
+<title>2026-04-29: 4 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0727272727272728 0,1.0727272727272728 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0727272727272728 1.7,2.0727272727272728 z"/>
+</g>
+<g transform="translate(-6.8,10.0)">
+<title>2026-04-30: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-8.5,11.0)">
+<title>2026-05-01: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-10.2,12.0)">
+<title>2026-05-02: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+</g>
+<g transform="translate(52.699999999999996,31)">
+<g transform="translate(-0.0,5.945454545454545)">
+<title>2026-05-03: 3 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0545454545454547 0,1.0545454545454545 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0545454545454545 1.7,2.0545454545454547 z"/>
+</g>
+<g transform="translate(-1.7,6.9818181818181815)">
+<title>2026-05-04: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+<g transform="translate(-3.4,8.0)">
+<title>2026-05-05: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-5.1,9.0)">
+<title>2026-05-06: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-6.8,9.98181818181818)">
+<title>2026-05-07: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+<g transform="translate(-8.5,11.0)">
+<title>2026-05-08: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-10.2,12.0)">
+<title>2026-05-09: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+</g>
+<g transform="translate(54.4,32)">
+<g transform="translate(-0.0,5.963636363636363)">
+<title>2026-05-10: 2 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.036363636363636 0,1.0363636363636364 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0363636363636364 1.7,2.036363636363636 z"/>
+</g>
+<g transform="translate(-1.7,7.0)">
+<title>2026-05-11: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-3.4,7.963636363636363)">
+<title>2026-05-12: 2 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.036363636363636 0,1.0363636363636364 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0363636363636364 1.7,2.036363636363636 z"/>
+</g>
+<g transform="translate(-5.1,9.0)">
+<title>2026-05-13: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-6.8,10.0)">
+<title>2026-05-14: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-8.5,11.0)">
+<title>2026-05-15: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-10.2,12.0)">
+<title>2026-05-16: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+</g>
+<g transform="translate(56.1,33)">
+<g transform="translate(-0.0,5.9818181818181815)">
+<title>2026-05-17: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+<g transform="translate(-1.7,7.0)">
+<title>2026-05-18: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-3.4,7.9818181818181815)">
+<title>2026-05-19: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+<g transform="translate(-5.1,8.927272727272728)">
+<title>2026-05-20: 4 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0727272727272728 0,1.0727272727272728 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0727272727272728 1.7,2.0727272727272728 z"/>
+</g>
+<g transform="translate(-6.8,10.0)">
+<title>2026-05-21: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-8.5,11.0)">
+<title>2026-05-22: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-10.2,11.963636363636363)">
+<title>2026-05-23: 2 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.036363636363636 0,1.0363636363636364 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0363636363636364 1.7,2.036363636363636 z"/>
+</g>
+</g>
+<g transform="translate(57.8,34)">
+<g transform="translate(-0.0,5.945454545454545)">
+<title>2026-05-24: 3 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0545454545454547 0,1.0545454545454545 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0545454545454545 1.7,2.0545454545454547 z"/>
+</g>
+<g transform="translate(-1.7,6.963636363636363)">
+<title>2026-05-25: 2 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.036363636363636 0,1.0363636363636364 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0363636363636364 1.7,2.036363636363636 z"/>
+</g>
+<g transform="translate(-3.4,7.9818181818181815)">
+<title>2026-05-26: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+<g transform="translate(-5.1,9.0)">
+<title>2026-05-27: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-6.8,9.98181818181818)">
+<title>2026-05-28: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+<g transform="translate(-8.5,11.0)">
+<title>2026-05-29: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-10.2,12.0)">
+<title>2026-05-30: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+</g>
+<g transform="translate(59.5,35)">
+<g transform="translate(-0.0,6.0)">
+<title>2026-05-31: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-1.7,6.945454545454545)">
+<title>2026-06-01: 3 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0545454545454547 0,1.0545454545454545 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0545454545454545 1.7,2.0545454545454547 z"/>
+</g>
+<g transform="translate(-3.4,7.9818181818181815)">
+<title>2026-06-02: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+<g transform="translate(-5.1,8.963636363636363)">
+<title>2026-06-03: 2 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.036363636363636 0,1.0363636363636364 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0363636363636364 1.7,2.036363636363636 z"/>
+</g>
+<g transform="translate(-6.8,10.0)">
+<title>2026-06-04: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-8.5,11.0)">
+<title>2026-06-05: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-10.2,11.963636363636363)">
+<title>2026-06-06: 2 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.036363636363636 0,1.0363636363636364 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0363636363636364 1.7,2.036363636363636 z"/>
+</g>
+</g>
+<g transform="translate(61.199999999999996,36)">
+<g transform="translate(-0.0,6.0)">
+<title>2026-06-07: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-1.7,6.9818181818181815)">
+<title>2026-06-08: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+<g transform="translate(-3.4,8.0)">
+<title>2026-06-09: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-5.1,9.0)">
+<title>2026-06-10: 0 contributions</title>
+<path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0 0,1.0 z"/>
+<path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0 1.7,2.0 z"/>
+</g>
+<g transform="translate(-6.8,9.98181818181818)">
+<title>2026-06-11: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+<g transform="translate(-8.5,10.963636363636363)">
+<title>2026-06-12: 2 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.036363636363636 0,1.0363636363636364 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0363636363636364 1.7,2.036363636363636 z"/>
+</g>
+<g transform="translate(-10.2,11.945454545454545)">
+<title>2026-06-13: 3 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0545454545454547 0,1.0545454545454545 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0545454545454545 1.7,2.0545454545454547 z"/>
+</g>
+</g>
+<g transform="translate(62.9,37)">
+<g transform="translate(-0.0,5.963636363636363)">
+<title>2026-06-14: 2 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.036363636363636 0,1.0363636363636364 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0363636363636364 1.7,2.036363636363636 z"/>
+</g>
+<g transform="translate(-1.7,6.9818181818181815)">
+<title>2026-06-15: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+<g transform="translate(-3.4,7.818181818181818)">
+<title>2026-06-16: 10 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1818181818181817 0,1.1818181818181819 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1818181818181819 1.7,2.1818181818181817 z"/>
+</g>
+<g transform="translate(-5.1,8.727272727272727)">
+<title>2026-06-17: 15 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2727272727272725 0,1.2727272727272727 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2727272727272727 1.7,2.2727272727272725 z"/>
+</g>
+<g transform="translate(-6.8,9.781818181818181)">
+<title>2026-06-18: 12 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2181818181818183 0,1.2181818181818183 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2181818181818183 1.7,2.2181818181818183 z"/>
+</g>
+<g transform="translate(-8.5,10.836363636363636)">
+<title>2026-06-19: 9 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1636363636363636 0,1.1636363636363636 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1636363636363636 1.7,2.1636363636363636 z"/>
+</g>
+<g transform="translate(-10.2,11.727272727272727)">
+<title>2026-06-20: 15 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2727272727272725 0,1.2727272727272727 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2727272727272727 1.7,2.2727272727272725 z"/>
+</g>
+</g>
+<g transform="translate(64.6,38)">
+<g transform="translate(-0.0,5.8)">
+<title>2026-06-21: 11 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2 0,1.2 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2 1.7,2.2 z"/>
+</g>
+<g transform="translate(-1.7,6.818181818181818)">
+<title>2026-06-22: 10 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1818181818181817 0,1.1818181818181819 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1818181818181819 1.7,2.1818181818181817 z"/>
+</g>
+<g transform="translate(-3.4,7.818181818181818)">
+<title>2026-06-23: 10 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1818181818181817 0,1.1818181818181819 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1818181818181819 1.7,2.1818181818181817 z"/>
+</g>
+<g transform="translate(-5.1,8.818181818181818)">
+<title>2026-06-24: 10 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1818181818181817 0,1.1818181818181819 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1818181818181819 1.7,2.1818181818181817 z"/>
+</g>
+<g transform="translate(-6.8,9.781818181818181)">
+<title>2026-06-25: 12 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2181818181818183 0,1.2181818181818183 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2181818181818183 1.7,2.2181818181818183 z"/>
+</g>
+<g transform="translate(-8.5,10.836363636363636)">
+<title>2026-06-26: 9 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1636363636363636 0,1.1636363636363636 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1636363636363636 1.7,2.1636363636363636 z"/>
+</g>
+<g transform="translate(-10.2,11.781818181818181)">
+<title>2026-06-27: 12 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2181818181818183 0,1.2181818181818183 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2181818181818183 1.7,2.2181818181818183 z"/>
+</g>
+</g>
+<g transform="translate(66.3,39)">
+<g transform="translate(-0.0,5.818181818181818)">
+<title>2026-06-28: 10 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1818181818181817 0,1.1818181818181819 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1818181818181819 1.7,2.1818181818181817 z"/>
+</g>
+<g transform="translate(-1.7,6.836363636363637)">
+<title>2026-06-29: 9 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1636363636363636 0,1.1636363636363636 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1636363636363636 1.7,2.1636363636363636 z"/>
+</g>
+<g transform="translate(-3.4,7.763636363636364)">
+<title>2026-06-30: 13 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2363636363636363 0,1.2363636363636363 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2363636363636363 1.7,2.2363636363636363 z"/>
+</g>
+<g transform="translate(-5.1,8.98181818181818)">
+<title>2026-07-01: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+<g transform="translate(-6.8,9.89090909090909)">
+<title>2026-07-02: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+<g transform="translate(-8.5,10.89090909090909)">
+<title>2026-07-03: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+<g transform="translate(-10.2,11.854545454545455)">
+<title>2026-07-04: 8 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1454545454545455 0,1.1454545454545455 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1454545454545455 1.7,2.1454545454545455 z"/>
+</g>
+</g>
+<g transform="translate(68.0,40)">
+<g transform="translate(-0.0,5.781818181818181)">
+<title>2026-07-05: 12 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2181818181818183 0,1.2181818181818183 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2181818181818183 1.7,2.2181818181818183 z"/>
+</g>
+<g transform="translate(-1.7,6.7272727272727275)">
+<title>2026-07-06: 15 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2727272727272725 0,1.2727272727272727 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2727272727272727 1.7,2.2727272727272725 z"/>
+</g>
+<g transform="translate(-3.4,7.890909090909091)">
+<title>2026-07-07: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+<g transform="translate(-5.1,8.927272727272728)">
+<title>2026-07-08: 4 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0727272727272728 0,1.0727272727272728 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0727272727272728 1.7,2.0727272727272728 z"/>
+</g>
+<g transform="translate(-6.8,9.763636363636364)">
+<title>2026-07-09: 13 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2363636363636363 0,1.2363636363636363 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2363636363636363 1.7,2.2363636363636363 z"/>
+</g>
+<g transform="translate(-8.5,10.872727272727273)">
+<title>2026-07-10: 7 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1272727272727274 0,1.1272727272727272 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1272727272727272 1.7,2.1272727272727274 z"/>
+</g>
+<g transform="translate(-10.2,11.8)">
+<title>2026-07-11: 11 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2 0,1.2 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2 1.7,2.2 z"/>
+</g>
+</g>
+<g transform="translate(69.7,41)">
+<g transform="translate(-0.0,5.890909090909091)">
+<title>2026-07-12: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+<g transform="translate(-1.7,6.709090909090909)">
+<title>2026-07-13: 16 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.290909090909091 0,1.290909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.290909090909091 1.7,2.290909090909091 z"/>
+</g>
+<g transform="translate(-3.4,7.709090909090909)">
+<title>2026-07-14: 16 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.290909090909091 0,1.290909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.290909090909091 1.7,2.290909090909091 z"/>
+</g>
+<g transform="translate(-5.1,8.563636363636363)">
+<title>2026-07-15: 24 contributions</title>
+<path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4363636363636365 0,1.4363636363636363 z"/>
+<path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4363636363636363 1.7,2.4363636363636365 z"/>
+</g>
+<g transform="translate(-6.8,9.654545454545454)">
+<title>2026-07-16: 19 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3454545454545457 0,1.3454545454545455 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3454545454545455 1.7,2.3454545454545457 z"/>
+</g>
+<g transform="translate(-8.5,10.727272727272727)">
+<title>2026-07-17: 15 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2727272727272725 0,1.2727272727272727 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2727272727272727 1.7,2.2727272727272725 z"/>
+</g>
+<g transform="translate(-10.2,11.8)">
+<title>2026-07-18: 11 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2 0,1.2 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2 1.7,2.2 z"/>
+</g>
+</g>
+<g transform="translate(71.39999999999999,42)">
+<g transform="translate(-0.0,5.763636363636364)">
+<title>2026-07-19: 13 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2363636363636363 0,1.2363636363636363 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2363636363636363 1.7,2.2363636363636363 z"/>
+</g>
+<g transform="translate(-1.7,6.7272727272727275)">
+<title>2026-07-20: 15 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2727272727272725 0,1.2727272727272727 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2727272727272727 1.7,2.2727272727272725 z"/>
+</g>
+<g transform="translate(-3.4,7.763636363636364)">
+<title>2026-07-21: 13 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2363636363636363 0,1.2363636363636363 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2363636363636363 1.7,2.2363636363636363 z"/>
+</g>
+<g transform="translate(-5.1,8.745454545454546)">
+<title>2026-07-22: 14 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2545454545454544 0,1.2545454545454546 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2545454545454546 1.7,2.2545454545454544 z"/>
+</g>
+<g transform="translate(-6.8,9.90909090909091)">
+<title>2026-07-23: 5 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.090909090909091 0,1.0909090909090908 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0909090909090908 1.7,2.090909090909091 z"/>
+</g>
+<g transform="translate(-8.5,10.89090909090909)">
+<title>2026-07-24: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+<g transform="translate(-10.2,11.745454545454546)">
+<title>2026-07-25: 14 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2545454545454544 0,1.2545454545454546 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2545454545454546 1.7,2.2545454545454544 z"/>
+</g>
+</g>
+<g transform="translate(73.1,43)">
+<g transform="translate(-0.0,5.872727272727273)">
+<title>2026-07-26: 7 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1272727272727274 0,1.1272727272727272 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1272727272727272 1.7,2.1272727272727274 z"/>
+</g>
+<g transform="translate(-1.7,6.672727272727273)">
+<title>2026-07-27: 18 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.327272727272727 0,1.3272727272727272 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3272727272727272 1.7,2.327272727272727 z"/>
+</g>
+<g transform="translate(-3.4,7.909090909090909)">
+<title>2026-07-28: 5 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.090909090909091 0,1.0909090909090908 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0909090909090908 1.7,2.090909090909091 z"/>
+</g>
+<g transform="translate(-5.1,8.818181818181818)">
+<title>2026-07-29: 10 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1818181818181817 0,1.1818181818181819 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1818181818181819 1.7,2.1818181818181817 z"/>
+</g>
+<g transform="translate(-6.8,9.763636363636364)">
+<title>2026-07-30: 13 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2363636363636363 0,1.2363636363636363 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2363636363636363 1.7,2.2363636363636363 z"/>
+</g>
+<g transform="translate(-8.5,10.854545454545455)">
+<title>2026-07-31: 8 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1454545454545455 0,1.1454545454545455 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1454545454545455 1.7,2.1454545454545455 z"/>
+</g>
+<g transform="translate(-10.2,11.781818181818181)">
+<title>2026-08-01: 12 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2181818181818183 0,1.2181818181818183 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2181818181818183 1.7,2.2181818181818183 z"/>
+</g>
+</g>
+<g transform="translate(74.8,44)">
+<g transform="translate(-0.0,5.8545454545454545)">
+<title>2026-08-02: 8 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1454545454545455 0,1.1454545454545455 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1454545454545455 1.7,2.1454545454545455 z"/>
+</g>
+<g transform="translate(-1.7,6.8)">
+<title>2026-08-03: 11 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2 0,1.2 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2 1.7,2.2 z"/>
+</g>
+<g transform="translate(-3.4,7.818181818181818)">
+<title>2026-08-04: 10 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1818181818181817 0,1.1818181818181819 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1818181818181819 1.7,2.1818181818181817 z"/>
+</g>
+<g transform="translate(-5.1,8.836363636363636)">
+<title>2026-08-05: 9 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1636363636363636 0,1.1636363636363636 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1636363636363636 1.7,2.1636363636363636 z"/>
+</g>
+<g transform="translate(-6.8,9.872727272727273)">
+<title>2026-08-06: 7 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1272727272727274 0,1.1272727272727272 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1272727272727272 1.7,2.1272727272727274 z"/>
+</g>
+<g transform="translate(-8.5,10.90909090909091)">
+<title>2026-08-07: 5 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.090909090909091 0,1.0909090909090908 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0909090909090908 1.7,2.090909090909091 z"/>
+</g>
+<g transform="translate(-10.2,11.89090909090909)">
+<title>2026-08-08: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+</g>
+<g transform="translate(76.5,45)">
+<g transform="translate(-0.0,5.8545454545454545)">
+<title>2026-08-09: 8 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1454545454545455 0,1.1454545454545455 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1454545454545455 1.7,2.1454545454545455 z"/>
+</g>
+<g transform="translate(-1.7,6.909090909090909)">
+<title>2026-08-10: 5 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.090909090909091 0,1.0909090909090908 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0909090909090908 1.7,2.090909090909091 z"/>
+</g>
+<g transform="translate(-3.4,7.763636363636364)">
+<title>2026-08-11: 13 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2363636363636363 0,1.2363636363636363 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2363636363636363 1.7,2.2363636363636363 z"/>
+</g>
+<g transform="translate(-5.1,8.854545454545455)">
+<title>2026-08-12: 8 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1454545454545455 0,1.1454545454545455 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1454545454545455 1.7,2.1454545454545455 z"/>
+</g>
+<g transform="translate(-6.8,9.8)">
+<title>2026-08-13: 11 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2 0,1.2 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2 1.7,2.2 z"/>
+</g>
+<g transform="translate(-8.5,10.8)">
+<title>2026-08-14: 11 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2 0,1.2 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2 1.7,2.2 z"/>
+</g>
+<g transform="translate(-10.2,11.854545454545455)">
+<title>2026-08-15: 8 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1454545454545455 0,1.1454545454545455 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1454545454545455 1.7,2.1454545454545455 z"/>
+</g>
+</g>
+<g transform="translate(78.2,46)">
+<g transform="translate(-0.0,5.872727272727273)">
+<title>2026-08-16: 7 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1272727272727274 0,1.1272727272727272 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1272727272727272 1.7,2.1272727272727274 z"/>
+</g>
+<g transform="translate(-1.7,6.763636363636364)">
+<title>2026-08-17: 13 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2363636363636363 0,1.2363636363636363 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2363636363636363 1.7,2.2363636363636363 z"/>
+</g>
+<g transform="translate(-3.4,7.890909090909091)">
+<title>2026-08-18: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+<g transform="translate(-5.1,8.872727272727273)">
+<title>2026-08-19: 7 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1272727272727274 0,1.1272727272727272 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1272727272727272 1.7,2.1272727272727274 z"/>
+</g>
+<g transform="translate(-6.8,9.89090909090909)">
+<title>2026-08-20: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+<g transform="translate(-8.5,10.89090909090909)">
+<title>2026-08-21: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+<g transform="translate(-10.2,11.927272727272728)">
+<title>2026-08-22: 4 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0727272727272728 0,1.0727272727272728 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0727272727272728 1.7,2.0727272727272728 z"/>
+</g>
+</g>
+<g transform="translate(79.89999999999999,47)">
+<g transform="translate(-0.0,5.818181818181818)">
+<title>2026-08-23: 10 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1818181818181817 0,1.1818181818181819 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1818181818181819 1.7,2.1818181818181817 z"/>
+</g>
+<g transform="translate(-1.7,6.818181818181818)">
+<title>2026-08-24: 10 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1818181818181817 0,1.1818181818181819 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1818181818181819 1.7,2.1818181818181817 z"/>
+</g>
+<g transform="translate(-3.4,7.836363636363637)">
+<title>2026-08-25: 9 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1636363636363636 0,1.1636363636363636 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1636363636363636 1.7,2.1636363636363636 z"/>
+</g>
+<g transform="translate(-5.1,8.90909090909091)">
+<title>2026-08-26: 5 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.090909090909091 0,1.0909090909090908 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0909090909090908 1.7,2.090909090909091 z"/>
+</g>
+<g transform="translate(-6.8,9.872727272727273)">
+<title>2026-08-27: 7 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1272727272727274 0,1.1272727272727272 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1272727272727272 1.7,2.1272727272727274 z"/>
+</g>
+<g transform="translate(-8.5,10.8)">
+<title>2026-08-28: 11 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2 0,1.2 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2 1.7,2.2 z"/>
+</g>
+<g transform="translate(-10.2,11.836363636363636)">
+<title>2026-08-29: 9 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1636363636363636 0,1.1636363636363636 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1636363636363636 1.7,2.1636363636363636 z"/>
+</g>
+</g>
+<g transform="translate(81.6,48)">
+<g transform="translate(-0.0,5.818181818181818)">
+<title>2026-08-30: 10 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1818181818181817 0,1.1818181818181819 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1818181818181819 1.7,2.1818181818181817 z"/>
+</g>
+<g transform="translate(-1.7,6.7272727272727275)">
+<title>2026-08-31: 15 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2727272727272725 0,1.2727272727272727 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2727272727272727 1.7,2.2727272727272725 z"/>
+</g>
+<g transform="translate(-3.4,7.872727272727273)">
+<title>2026-09-01: 7 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1272727272727274 0,1.1272727272727272 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1272727272727272 1.7,2.1272727272727274 z"/>
+</g>
+<g transform="translate(-5.1,8.98181818181818)">
+<title>2026-09-02: 1 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.018181818181818 0,1.018181818181818 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.018181818181818 1.7,2.018181818181818 z"/>
+</g>
+<g transform="translate(-6.8,9.745454545454546)">
+<title>2026-09-03: 14 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2545454545454544 0,1.2545454545454546 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2545454545454546 1.7,2.2545454545454544 z"/>
+</g>
+<g transform="translate(-8.5,10.709090909090909)">
+<title>2026-09-04: 16 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.290909090909091 0,1.290909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.290909090909091 1.7,2.290909090909091 z"/>
+</g>
+<g transform="translate(-10.2,11.90909090909091)">
+<title>2026-09-05: 5 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.090909090909091 0,1.0909090909090908 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0909090909090908 1.7,2.090909090909091 z"/>
+</g>
+</g>
+<g transform="translate(83.3,49)">
+<g transform="translate(-0.0,5.8545454545454545)">
+<title>2026-09-06: 8 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1454545454545455 0,1.1454545454545455 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1454545454545455 1.7,2.1454545454545455 z"/>
+</g>
+<g transform="translate(-1.7,6.890909090909091)">
+<title>2026-09-07: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+<g transform="translate(-3.4,7.890909090909091)">
+<title>2026-09-08: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+<g transform="translate(-5.1,8.8)">
+<title>2026-09-09: 11 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2 0,1.2 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2 1.7,2.2 z"/>
+</g>
+<g transform="translate(-6.8,9.472727272727273)">
+<title>2026-09-10: 29 contributions</title>
+<path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5272727272727273 0,1.5272727272727273 z"/>
+<path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5272727272727273 1.7,2.5272727272727273 z"/>
+</g>
+<g transform="translate(-8.5,10.545454545454545)">
+<title>2026-09-11: 25 contributions</title>
+<path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4545454545454546 0,1.4545454545454546 z"/>
+<path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4545454545454546 1.7,2.4545454545454546 z"/>
+</g>
+<g transform="translate(-10.2,11.89090909090909)">
+<title>2026-09-12: 6 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
+</g>
+</g>
+<g transform="translate(85.0,50)">
+<g transform="translate(-0.0,5.781818181818181)">
+<title>2026-09-13: 12 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2181818181818183 0,1.2181818181818183 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2181818181818183 1.7,2.2181818181818183 z"/>
+</g>
+<g transform="translate(-1.7,5.672727272727273)">
+<title>2026-09-14: 73 contributions</title>
+<path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.327272727272727 0,2.327272727272727 z"/>
+<path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.327272727272727 1.7,3.327272727272727 z"/>
+</g>
+<g transform="translate(-3.4,6.981818181818182)">
+<title>2026-09-15: 56 contributions</title>
+<path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.0181818181818185 0,2.0181818181818185 z"/>
+<path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.0181818181818185 1.7,3.0181818181818185 z"/>
+</g>
+<g transform="translate(-5.1,8.818181818181818)">
+<title>2026-09-16: 10 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1818181818181817 0,1.1818181818181819 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1818181818181819 1.7,2.1818181818181817 z"/>
+</g>
+<g transform="translate(-6.8,9.054545454545455)">
+<title>2026-09-17: 52 contributions</title>
+<path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9454545454545453 0,1.9454545454545453 z"/>
+<path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9454545454545453 1.7,2.9454545454545453 z"/>
+</g>
+<g transform="translate(-8.5,9.454545454545455)">
+<title>2026-09-18: 85 contributions</title>
+<path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.5454545454545454 0,2.5454545454545454 z"/>
+<path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.5454545454545454 1.7,3.5454545454545454 z"/>
+</g>
+<g transform="translate(-10.2,9.690909090909091)">
+<title>2026-09-19: 127 contributions</title>
+<path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.309090909090909 0,3.309090909090909 z"/>
+<path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.309090909090909 1.7,4.309090909090909 z"/>
+</g>
+</g>
+<g transform="translate(86.7,51)">
+<g transform="translate(-0.0,5.3090909090909095)">
+<title>2026-09-20: 38 contributions</title>
+<path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.690909090909091 0,1.690909090909091 z"/>
+<path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.690909090909091 1.7,2.690909090909091 z"/>
+</g>
+<g transform="translate(-1.7,5.5636363636363635)">
+<title>2026-09-21: 79 contributions</title>
+<path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.4363636363636365 0,2.4363636363636365 z"/>
+<path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.4363636363636365 1.7,3.4363636363636365 z"/>
+</g>
+<g transform="translate(-3.4,7.963636363636363)">
+<title>2026-09-22: 2 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.036363636363636 0,1.0363636363636364 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0363636363636364 1.7,2.036363636363636 z"/>
+</g>
+<g transform="translate(-5.1,8.454545454545453)">
+<title>2026-09-23: 30 contributions</title>
+<path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5454545454545454 0,1.5454545454545454 z"/>
+<path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5454545454545454 1.7,2.5454545454545454 z"/>
+</g>
+<g transform="translate(-6.8,9.781818181818181)">
+<title>2026-09-24: 12 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2181818181818183 0,1.2181818181818183 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2181818181818183 1.7,2.2181818181818183 z"/>
+</g>
+<g transform="translate(-8.5,9.963636363636365)">
+<title>2026-09-25: 57 contributions</title>
+<path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.036363636363636 0,2.036363636363636 z"/>
+<path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.036363636363636 1.7,3.036363636363636 z"/>
+</g>
+<g transform="translate(-10.2,11.745454545454546)">
+<title>2026-09-26: 14 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2545454545454544 0,1.2545454545454546 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2545454545454546 1.7,2.2545454545454544 z"/>
+</g>
+</g>
+<g transform="translate(88.39999999999999,52)">
+<g transform="translate(-0.0,5.872727272727273)">
+<title>2026-09-27: 7 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1272727272727274 0,1.1272727272727272 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1272727272727272 1.7,2.1272727272727274 z"/>
+</g>
+<g transform="translate(-1.7,1.0)">
+<title>2026-09-28: 330 contributions</title>
+<path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,8.0 0,7.0 z"/>
+<path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,7.0 1.7,8.0 z"/>
+</g>
+<g transform="translate(-3.4,6.254545454545455)">
+<title>2026-09-29: 96 contributions</title>
+<path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.745454545454545 0,2.745454545454545 z"/>
+<path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.745454545454545 1.7,3.745454545454545 z"/>
+</g>
+<g transform="translate(-5.1,8.654545454545454)">
+<title>2026-09-30: 19 contributions</title>
+<path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+<path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3454545454545457 0,1.3454545454545455 z"/>
+<path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3454545454545455 1.7,2.3454545454545457 z"/>
+</g>
+</g>
+</g></svg>
+<text x="24" y="399" font-size="11" fill="#59636e">2025-09-28 to 2026-09-30 · one-time preview</text>
+</g></svg>
