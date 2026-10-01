@@ -10,6 +10,6 @@ Right now I'm learning Rust for the performance heavy parts of RL systems, and T
 
 **Languages:** Python, Rust (learning), TypeScript/JavaScript
 
-**ML & training:** PyTorch, TransformerLens, Hugging Face Transformers & Datasets, FSDP2
+**ML & training:** PyTorch, Hugging Face Transformers & Datasets, FSDP2
 
 **RL & inference:** SGLang, vLLM, verl
